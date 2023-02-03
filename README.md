@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fzengin19
 - My gitlab account is https://gitlab.com/fzengin19
-- 🌱 I’m currently learning CQRS pattern on .NET
 - 📫 How to reach me fatihzengin654@outlook.com
 
 <!---
