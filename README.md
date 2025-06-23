@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @fzengin19
-- My gitlab account is https://gitlab.com/fzengin19
 - 📫 How to reach me fatihzengin654@outlook.com
 
 <!---
