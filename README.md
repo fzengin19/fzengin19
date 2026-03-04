@@ -24,7 +24,7 @@ I also enjoy managing my own infrastructure—setting up Linux servers and handl
 **[laravel-approval](https://github.com/fzengin19/laravel-approval)**
 A dedicated Laravel package I built to handle approval workflows. It encapsulates the approval logic into a reusable component, keeping the main business logic clean.
 
-**[SwallowPHP](https://github.com/fzengin19/swallow-php)**
+**[SwallowPHP](https://github.com/fzengin19/swallowphp-framework)**
 This is my playground. I'm building a custom framework from scratch—not to replace Laravel, but to reverse-engineer it. It helps me understand how things like Dependency Injection and Routing actually work under the hood.
 
 ---
